@@ -1,0 +1,13 @@
+I used AI (ChatGPT, GPT-5.1) to clarify some areas where I lacked knowledge about node.js or SQL. All questions were posed to save time in searching websites like GeekforGeeks, StackOverflow, W3Schools, etc. for formatting. These prompts include:
+
+1.) how do I store and test Regex email hashing in node.js? provide an example
+- (Wednesday 12-3) Used to figure out what function to call and formatting to use for an if statement in node.js.
+
+2.) please help me find a method from a website that calculates the last X days, using a integer input and working off a DATETIME variable from an SQL database
+- (Wednesday 12-3) Used to address gaps in my SQL knowledge, since I don't remember us converting DATETIME variables into integers and such in class before.
+
+3.) please find me a website to convert a node.js query input to a int value
+- (Wednesday 12-3) Used as a part of the debugging process, since although I was calling the variable intDays, it was clearly not storing as an int value (or it should have worked with the method I was given above).
+
+4.) how can I select a SQL value that isn't in a database
+- (Wednesday 12-3) Used to figure out how to approach step 16, since I can't remember us ever pulling a SQL value that isn't stored in any database tables.
